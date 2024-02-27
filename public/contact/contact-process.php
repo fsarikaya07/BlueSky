@@ -1,6 +1,6 @@
 <?php
 
-$address = "f.sarikaya07@gmail.com";
+$address = "";
 
 if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
 

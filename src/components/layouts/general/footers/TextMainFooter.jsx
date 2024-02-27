@@ -7,7 +7,7 @@ class TextMainFooter extends Component {
         <p>
           <img
             src="images/BLUESKY/blueskylogo.png"
-            alt="financial"
+            alt="bluesky"
             width={77}
             height={29}
             data-retina="images/BLUESKY/blueskylogo.png"

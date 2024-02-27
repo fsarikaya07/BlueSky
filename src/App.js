@@ -10,7 +10,8 @@ function App() {
         className="float"
         target="_blank"
       >
-        <i class="fa fa-whatsapp my-float"></i>
+        <i className="fa-brands fa-whatsapp my-float"></i>
+       
       </a>
       {routes.map((data, idx) => (
         <Route

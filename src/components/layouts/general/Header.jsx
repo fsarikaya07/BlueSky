@@ -25,11 +25,11 @@ class Header extends Component {
                     }}
                   >
                     <img
-                      src="images/BLUESKY/Logo.jpeg"
-                      alt="financial"
+                      src="images/BLUESKY/blueskylogo.png"
+                      alt="bluesky"
                       width={77}
                       height={29}
-                      data-retina="images/BLUESKY/Logo.jpeg"
+                      data-retina="images/BLUESKY/blueskylogo.png"
                       data-width={87}
                       data-height={29}
                     />
